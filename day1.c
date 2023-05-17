@@ -20,13 +20,13 @@
 
 //int main()
 //{
-//	int a = 0;						//ÕâÀïµÄ"a"ÊÇ±äÁ¿
-//	printf("½ñÌìÊÇÇçÌìÂð£¿\n");
-//	printf("£¨ÊÇÇçÌì¿Û1£©\n");
+//	int a = 0;						//è¿™é‡Œçš„"a"æ˜¯å˜é‡
+//	printf("ä»Šå¤©æ˜¯æ™´å¤©å—ï¼Ÿ\n");
+//	printf("ï¼ˆæ˜¯æ™´å¤©æ‰£1ï¼‰\n");
 //	scanf("%d",&a);
 //	if (a == 1)
-//		printf("Ì«°ôÁË£¡Ï£ÍûÄãµÄÐÄÇéºÍÌìÆøÒ»ÑùÇçÀÊ£¡\n");
+//		printf("å¤ªæ£’äº†ï¼å¸Œæœ›ä½ çš„å¿ƒæƒ…å’Œå¤©æ°”ä¸€æ ·æ™´æœ—ï¼\n");
 //	else
-//		printf("Ã»¹ØÏµ£¡½ñÌìÒªÓÐ¸öºÃÐÄÇé£¡\n");
+//		printf("æ²¡å…³ç³»ï¼ä»Šå¤©è¦æœ‰ä¸ªå¥½å¿ƒæƒ…ï¼\n");
 //	return 0;
 //}
